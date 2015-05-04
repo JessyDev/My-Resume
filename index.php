@@ -8,7 +8,7 @@
 	<title>Bootstrap tutorials by Siam HTML</title>
 </head>
 <body>
-
+123456
 	<div class="container-fluid">
 		<div class="row-fluid">
 			<div class="span8">MAIN</div>
